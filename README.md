@@ -1,11 +1,11 @@
 # **ML Platform Engineer**
 
-#### <a href="https://drive.google.com/file/d/1zpNgb3KVRpqg2IF36u_Jt6fm0GnifRUc/view?usp=sharing" target="_blank"><b>Resume.pdf</b></a> | <a href="https://www.linkedin.com/in/avr27/" target="_blank"><b>LinkedIn</b></a> | <a href="https://hackernoon.com/u/avr27" target="_blank"><b>Hackernoon</b></a> | <a href="https://github.com/avr2002" target="_blank"><b>GitHub</b></a> | <a href="https://bento.me/avr27" target="_blank"><b>bento.me</b></a> | raj.amitvikram@gmail.com
+#### <a href="https://drive.google.com/file/d/1zpNgb3KVRpqg2IF36u_Jt6fm0GnifRUc/view?usp=sharing" target="_blank"><b>Resume.pdf</b></a> | <a href="https://www.linkedin.com/in/avr27/" target="_blank"><b>LinkedIn</b></a> | <a href="https://hackernoon.com/u/avr27" target="_blank"><b>Hackernoon</b></a> | <a href="https://github.com/amitvikramraj" target="_blank"><b>GitHub</b></a> | <a href="https://bento.me/avr27" target="_blank"><b>bento.me</b></a> | raj.amitvikram@gmail.com
 
 <!-- <a href="https://twitter.com/avr_027" target="_blank"><b>Twitter</b></a> -->
 <!-- <a href="https://gitlab.com/avr27" target="_blank"><b>GitLab</b></a> -->
 
-**![](https://komarev.com/ghpvc/?username=avr2002&label=PROFILE+VIEWS)**
+**![](https://komarev.com/ghpvc/?username=amitvikramraj&label=PROFILE+VIEWS)**
 
 ## **Skills**
 - **Programming Skills:** `Python`, `bash`
@@ -132,7 +132,7 @@
   <div>
     <ul>
       <li>
-        <strong>Python Cookiecutter Project Template</strong> | <a href="https://github.com/avr2002/python-cookiecutter-template" target="_blank">GitHub</a>
+        <strong>Python Cookiecutter Project Template</strong> | <a href="https://github.com/amitvikramraj/python-cookiecutter-template" target="_blank">GitHub</a>
         <ul>
           <li><strong>Technologies Used:</strong> <code>Python</code>, <code>Cookiecutter</code>, <code>Pytest</code>, <code>GitHub Actions</code>, <code>CI/CD</code>, <code>GitHub CLI</code>, <code>Bash</code>, <code>setupTools</code>, <code>Linters</code>, <code>Pre-Commit</code></li>
           <li>Developed a customizable template using <strong>Cookiecutter</strong>, <strong>GitHub CLI</strong>, and <strong>GitHub Actions</strong> to automate the creation of Python project repositories, including setup for linting, testing, CI/CD, and secrets management.</li>
@@ -141,7 +141,7 @@
         </ul>
       </li>
       <li>
-        <strong>Basic Library Management System API</strong> | <a href="https://github.com/avr2002/backend-library-management-sys" target="_blank">GitHub</a>
+        <strong>Basic Library Management System API</strong> | <a href="https://github.com/amitvikramraj/backend-library-management-sys" target="_blank">GitHub</a>
         <ul>
           <li><strong>Technologies Used:</strong> <code>Python</code>, <code>FastAPI</code>, <code>Pydantic</code>, <code>MongoDB</code>, <code>Docker</code>, <code>GCP</code></li>
           <li>Implemented a RESTful API for a Library Management System using <strong>FastAPI</strong> with <strong>MongoDB Atlas</strong> as the database, deployed as a Docker image on <strong>GCP</strong>.</li>
@@ -157,7 +157,7 @@
   <div>
     <ul>
       <li>
-        <strong>Fake News Classification</strong> | <a href="https://github.com/avr2002/Fake-News-Classification-using-RNN-and-LSTM/blob/main/notebooks/main_notebook-2.ipynb" target="_blank">GitHub</a>
+        <strong>Fake News Classification</strong> | <a href="https://github.com/amitvikramraj/Fake-News-Classification-using-RNN-and-LSTM/blob/main/notebooks/main_notebook-2.ipynb" target="_blank">GitHub</a>
         <ul>
           <li><strong>Technologies Used:</strong> <code>Python</code>, <code>TensorFlow</code>, <code>scikit-learn</code>, <code>nltk</code>, <code>langdetect</code>, <code>wordcloud</code>, <code>matplotlib</code>, <code>regex</code>, <code>numpy</code>, <code>pandas</code></li>
           <li>Implemented an <strong>LSTM Model</strong> on <a href="https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification" target="_blank">Kaggle Fake News Dataset</a> with over 70K news text data, achieving <strong>97% accuracy</strong>.</li>
@@ -167,7 +167,7 @@
         </ul>
       </li>
       <li>
-        <strong>Topic Modeling Using RACE Dataset</strong> | <a href="https://github.com/avr2002/Topic-Modelling-Using-RACE-Dataset" target="_blank">GitHub</a>
+        <strong>Topic Modeling Using RACE Dataset</strong> | <a href="https://github.com/amitvikramraj/Topic-Modelling-Using-RACE-Dataset" target="_blank">GitHub</a>
         <ul>
           <li><strong>Technologies Used:</strong> <code>Python</code>, <code>Regex</code>, <code>NLTK</code>, <code>Gensim</code>, <code>Scikit-Learn</code>, <code>tSNE</code>, <code>pyLDAvis</code>, <code>bokeh</code>, <code>Git</code></li>
           <li>This <strong>NLP Project</strong> aims to use statistical models to reveal the abstract “topics” present in a large set of text documents, classifying documents based on different themes they convey.</li>
@@ -176,7 +176,7 @@
         </ul>
       </li>
       <li>
-        <strong>Medical Embeddings and Clinical Trial Search Engine</strong> | <a href="https://github.com/avr2002/Medical-Embeddings-and-Clinical-Trial-Search-Engine" target="_blank">GitHub</a>
+        <strong>Medical Embeddings and Clinical Trial Search Engine</strong> | <a href="https://github.com/amitvikramraj/Medical-Embeddings-and-Clinical-Trial-Search-Engine" target="_blank">GitHub</a>
         <ul>
           <li><strong>Technologies Used:</strong> <code>Python</code>, <code>Gensim</code>, <code>Word2Vec</code>, <code>FastText</code>, <code>Streamlit</code>, <code>Git</code></li>
           <li>This project trains SkipGram and FastText Models on the COVID-19 Clinical Trials Dataset and builds a search engine where users can input COVID-19-related keywords to retrieve the top n similar results from the dataset.</li>
@@ -192,7 +192,7 @@
   <div>
     <ul>
       <li>
-        <strong>Image Coloring using Autoencoders</strong> | <a href="https://github.com/avr2002/Image-Coloring-using-Autoencoders" target="_blank">GitHub</a>
+        <strong>Image Coloring using Autoencoders</strong> | <a href="https://github.com/amitvikramraj/Image-Coloring-using-Autoencoders" target="_blank">GitHub</a>
         <ul>
           <li><strong>Technologies Used:</strong> <code>Python</code>, <code>TensorFlow</code>, <code>Keras</code>, <code>scikit-image</code>, <code>matplotlib</code>, <code>numpy</code></li>
           <li>I tried using Autoencoders and Transfer Learning, using <strong>VGG16</strong> and <strong>InceptionResNetV2</strong> as encoder/feature extractor layers, paired with a custom decoder layer.</li>
@@ -200,7 +200,7 @@
         </ul>
       </li>
       <li>
-        <strong>Multi-class Image Classification Model</strong> | <a href="https://github.com/avr2002/Image-Classification-CNN-Model-for-Real-Time-Prediction" target="_blank">GitHub</a>
+        <strong>Multi-class Image Classification Model</strong> | <a href="https://github.com/amitvikramraj/Image-Classification-CNN-Model-for-Real-Time-Prediction" target="_blank">GitHub</a>
         <ul>
           <li><strong>Technologies Used:</strong> <code>Python</code>, <code>TensorFlow</code>, <code>Keras</code>, <code>matplotlib</code>, <code>Flask</code>, <code>Gunicorn</code>, <code>pathlib</code>, <code>numpy</code></li>
           <li>The project aims to classify images into driving license, social security, and others category by using a CNN model architecture.</li>
@@ -217,7 +217,7 @@
   <div>
     <ul>
       <li>
-        <strong>Business License Status Prediction</strong> | <a href="https://github.com/avr2002/Business-License-Status-Prediction" target="_blank">GitHub</a>
+        <strong>Business License Status Prediction</strong> | <a href="https://github.com/amitvikramraj/Business-License-Status-Prediction" target="_blank">GitHub</a>
         <ul>
           <li><strong>Technologies Used:</strong> <code>Python</code>, <code>scikit-learn</code>, <code>h2o</code>, <code>tensorflow</code>, <code>flask</code>, <code>gunicorn</code></li>
           <li>The project aims to predict if a customer's license should be issued, renewed, or canceled depending on features in the dataset.</li>
@@ -225,7 +225,7 @@
         </ul>
       </li>
       <li>
-        <strong>Medical Data Extraction Project</strong> | <a href="https://github.com/avr2002/medical-data-extraction-project" target="_blank">GitHub</a>
+        <strong>Medical Data Extraction Project</strong> | <a href="https://github.com/amitvikramraj/medical-data-extraction-project" target="_blank">GitHub</a>
         <ul>
           <li><strong>Technologies Used:</strong> <code>Python</code>, <code>Regex</code>, <code>OpenCV</code>, <code>Pytesseract</code>, <code>FastAPI</code></li>
           <li>Built a Python backend using <strong>Pytesseract</strong>, <strong>OpenCV</strong>, regular expressions, and <strong>FastAPI</strong> as a web-serving framework.</li>
@@ -237,18 +237,18 @@
         <strong>SQL Project: Provide Insights to Management in Consumer Goods Domain</strong>
         <ul>
           <li>A simple project that I made while learning SQL in 2023.</li>
-          <li><a href="https://github.com/avr2002/sql-project-consumer-goods-domain" target="_blank">Project GitHub Link</a> & <a href="https://drive.google.com/file/d/1QdbMXJoyvD8SASKbZYQelT-uQamhiEQ4/view?usp=share_link" target="_blank">Certificate of Participation</a></li>
+          <li><a href="https://github.com/amitvikramraj/sql-project-consumer-goods-domain" target="_blank">Project GitHub Link</a> & <a href="https://drive.google.com/file/d/1QdbMXJoyvD8SASKbZYQelT-uQamhiEQ4/view?usp=share_link" target="_blank">Certificate of Participation</a></li>
         </ul>
       </li>
       <li>
-        <strong>Credit Card Default Prediction</strong> | <a href="https://github.com/avr2002/credit-card-default-prediction" target="_blank">GitHub</a>
+        <strong>Credit Card Default Prediction</strong> | <a href="https://github.com/amitvikramraj/credit-card-default-prediction" target="_blank">GitHub</a>
         <ul>
           <li>A classic Credit Card Default Prediction project to predict whether a borrower is likely to default in the next 2 years or not, based on customer profile data.</li>
           <li>Implemented models including Logistic Regression, Random Forest, XGBoost, LightGBM, and a vanilla Neural Network.</li>
         </ul>
       </li>
       <li>
-        <strong>Regression Models for House Price Prediction</strong> | <a href="https://github.com/avr2002/Regression-Models-for-House-Price-Prediction" target="_blank">GitHub</a>
+        <strong>Regression Models for House Price Prediction</strong> | <a href="https://github.com/amitvikramraj/Regression-Models-for-House-Price-Prediction" target="_blank">GitHub</a>
         <ul>
           <li>Predicted house prices on the Pune real-estate dataset using different regression models, including Linear, Ridge, Lasso, Elastic Net, Random Forest, XGBoost, K-Nearest Neighbours, Support Vector Regressor, and XGBoost.</li>
           <li>Also implemented a multi-layer perceptron (MLP) using TensorFlow.</li>
@@ -269,27 +269,27 @@
 ## Knowledge Repo
 
 <details>
-  <summary><h3><a href="https://github.com/avr2002/NLP-with-Tensorflow" target="_blank">NLP with TensorFlow</a></h3></summary>
+  <summary><h3><a href="https://github.com/amitvikramraj/NLP-with-Tensorflow" target="_blank">NLP with TensorFlow</a></h3></summary>
   <ul>
     <li>My Notes from the book <em>Natural Language Processing with TensorFlow, 2nd-ed.</em> by Thushan Ganegedara.</li>
     <li>Things I have become familiar with:
       <ul>
         <li>Word Embeddings</li>
-        <li><strong><a href="https://github.com/avr2002/NLP-with-Tensorflow/blob/main/Ch_05_Sentence_Classification_CNN/02_CNN_Sentence_Classification.ipynb" target="_blank">Project: Sentence Classification using CNN</a></strong></li>
+        <li><strong><a href="https://github.com/amitvikramraj/NLP-with-Tensorflow/blob/main/Ch_05_Sentence_Classification_CNN/02_CNN_Sentence_Classification.ipynb" target="_blank">Project: Sentence Classification using CNN</a></strong></li>
         <li>RNNs, LSTMs, GRUs
           <ul>
-            <li><strong><a href="https://github.com/avr2002/NLP-with-Tensorflow/tree/main/Ch_06_RNNs" target="_blank">Project: NER with RNNs</a></strong></li>
+            <li><strong><a href="https://github.com/amitvikramraj/NLP-with-Tensorflow/tree/main/Ch_06_RNNs" target="_blank">Project: NER with RNNs</a></strong></li>
           </ul>
         </li>
         <li>Seq2Seq Learning, Language Modelling, Neural Machine Translation (NMT)
           <ul>
-            <li><strong><a href="https://github.com/avr2002/NLP-with-Tensorflow/blob/main/Ch_09_Seq-to-Seq%20Learning/01_Seq-to-Seq%20Learning-NMT.ipynb" target="_blank">Project: Neural Machine Translation: English to German</a></strong></li>
-            <li><strong><a href="https://github.com/avr2002/NLP-with-Tensorflow/blob/main/Ch_07_08_LSTM/03_Language%20Modelling%20with%20LSTMs.ipynb" target="_blank">Project: Language Modelling: Generating Text using LSTMs</a></strong></li>
+            <li><strong><a href="https://github.com/amitvikramraj/NLP-with-Tensorflow/blob/main/Ch_09_Seq-to-Seq%20Learning/01_Seq-to-Seq%20Learning-NMT.ipynb" target="_blank">Project: Neural Machine Translation: English to German</a></strong></li>
+            <li><strong><a href="https://github.com/amitvikramraj/NLP-with-Tensorflow/blob/main/Ch_07_08_LSTM/03_Language%20Modelling%20with%20LSTMs.ipynb" target="_blank">Project: Language Modelling: Generating Text using LSTMs</a></strong></li>
           </ul>
         </li>
         <li>Currently learning Transformers:
           <ul>
-            <li><strong><a href="https://github.com/avr2002/NLP-with-Tensorflow/blob/main/Ch_10_Transformers/03_Implementing_BERT.ipynb" target="_blank">Project: QnA with BERT using HuggingFace</a></strong></li>
+            <li><strong><a href="https://github.com/amitvikramraj/NLP-with-Tensorflow/blob/main/Ch_10_Transformers/03_Implementing_BERT.ipynb" target="_blank">Project: QnA with BERT using HuggingFace</a></strong></li>
           </ul>
         </li>
       </ul>
@@ -298,7 +298,7 @@
 </details>
 
 <details>
-  <summary><h3><a href="https://github.com/avr2002/Machine-Learning-with-Pytorch-Scikit-Learn" target="_blank">Machine Learning with PyTorch and Scikit-Learn</a></h3></summary>
+  <summary><h3><a href="https://github.com/amitvikramraj/Machine-Learning-with-Pytorch-Scikit-Learn" target="_blank">Machine Learning with PyTorch and Scikit-Learn</a></h3></summary>
   <ul>
     <li>My Notes from <em>Machine Learning with PyTorch and Scikit-Learn</em> by Sebastian Raschka.</li>
     <li>Things covered so far:
@@ -316,7 +316,7 @@
 </details>
 
 <details>
-  <summary><h3><a href="https://github.com/avr2002/Deep-Learning-with-TensorFlow-and-Keras/" target="_blank">Deep Learning with TensorFlow and Keras</a></h3></summary>
+  <summary><h3><a href="https://github.com/amitvikramraj/Deep-Learning-with-TensorFlow-and-Keras/" target="_blank">Deep Learning with TensorFlow and Keras</a></h3></summary>
   <ul>
     <li>My Notes from the book <em>Deep Learning with TensorFlow and Keras, 3rd Edition</em>.</li>
     <li>Will cover selective topics from this book.</li>
@@ -324,7 +324,7 @@
 </details>
 
 <details>
-  <summary><h3><a href="https://github.com/avr2002/mL" target="_blank">Machine Learning using Python</a></h3></summary>
+  <summary><h3><a href="https://github.com/amitvikramraj/mL" target="_blank">Machine Learning using Python</a></h3></summary>
   <ul>
     <li>Notes from <em>Machine Learning using Python</em> by Manaranjan Pradhan, U Dinesh Kumar.</li>
     <li>This was the very first ML book I read.</li>
