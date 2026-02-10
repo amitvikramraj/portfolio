@@ -41,14 +41,28 @@
 ## **Work Experience**
 
 <details>
-  <summary><h3><a href="https://www.linkedin.com/company/pattern-hq/" target="_blank">Pattern</a> | <strong>ML Platform Engineer</strong> | <strong>Jan 2025 - Present</strong></h3></summary>
+  <summary><h3><a href="https://www.linkedin.com/company/zenml/" target="_blank">ZenML</a> | <strong>Solutions Engineer</strong> | <strong>Jan 2026 - Present</strong></h3></summary>
   <div>
-    <p><strong>Skills:</strong> <code>Python, MLOps</code></p>
+    <p><strong>Skills:</strong> <code>Python</code>, <code>MLOps</code></p>
     <ul>
       <li>MLOps & Cloud</li>
     </ul>
   </div>
 </details>
+
+<details>
+  <summary><h3><a href="https://www.linkedin.com/company/pattern-hq/" target="_blank">Pattern</a> | <strong>ML Platform Engineer</strong> | <strong>Jan 2025 - Jan 2026</strong></h3></summary>
+  <div>
+    <p>Pattern is the largest seller on Amazon.com, aside from Amazon itself. Six data science teams cover 70+ use cases (advertising, market intelligence, demand forecasting, demand generation, content, operations). Data Scientists use our internal ML Platform to self-serve development and deployment of their products end-to-end.</p>
+    <p><strong>Skills:</strong> <code>Python</code>, <code>MLOps</code>, <code>AWS</code>, <code>Projen</code>, <code>Outerbounds</code>, <code>DataHub</code></p>
+    <ul>
+      <li>Built the ML Platform from scratch; supported Data Scientists with platform-related queries—onboarding, bug reports, feature requests, and migrating existing ML Pipelines to the new platform.</li>
+      <li>Built and maintained a custom <strong>Projen</strong>-based template for the DS Monorepo and an internal utility Python library.</li>
+      <li>Platform overview: <a href="https://www.linkedin.com/posts/avr27_do-you-want-to-see-the-ml-platform-ive-been-activity-7340741038191382530-0yyN" target="_blank">LinkedIn post</a>.</li>
+    </ul>
+  </div>
+</details>
+
 <details>
   <summary><h3><a href="https://mlops-club.org/" target="_blank">MLOps Club</a> | <strong>Course Co-author</strong> | <strong>June 2024 - Present</strong></h3></summary>
   <div>
