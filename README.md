@@ -8,33 +8,22 @@
 **![](https://komarev.com/ghpvc/?username=amitvikramraj&label=PROFILE+VIEWS)**
 
 ## **Skills**
-- **Programming Skills:** `Python`, `bash`
-- **Database:** `SQL`, `MongoDB`
-- **Technical Skills:**
-    - `Amazon Web Services(AWS)`, `Docker`, `FastAPI`, `AWS CDK`, `OpenTelemetry`, `Grafana`, `Prometheus`
-    - `TensorFlow`, `Scikit-Learn`, `Gensim`, `NLTK`, `Pytesseract`
-    - `BeautifulSoup`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Regex`
-- **Familiar:**
-    - `XGBoost`, `LightGBM`, `Streamlit`, `Flask`, `OpenCV`, `SciPy`, `Plotly`, `bokeh`, `Selenium`
+- Languages: `Python`, `bash`
+- Tools/Frameworks: `uv`, `Metaflow/Outerbounds`, `FastAPI`, `Flask`, `Docker`, `Docker Compose`
+- Templates/Testing: `Projen`, `Cookiecutter`, `Pytest`, `Moto`, `Locust`, `Pre-commit`, 
+- Cloud/IaC: `Amazon Web Services(AWS)`, `AWS CDK`, `GitHub Actions(CI/CD)`
+- Observability & Monitoring – `Cloudwatch`, `AWS EMF`, `AWS X-Ray`, `OpenTelemetry`, `Grafana`, `Prometheus`
+- Databases/Data Warehouses: `SQL`, `MongoDB`, `Snowflake`
 
 * **
 
 ## **About Me**
- 
-- 🎧 **I'm currently working on or plan to learn:**
-    - *Cloud Services: AWS*
-    - *Deploying AI/ML Models to Production*
-    - *Data Engineering - Databases, Warehouses, Lakes, and Pipelines for making data consumable*
-    - *Backend Engineering in general* 
-- 🌼 *In addition to my studies, I enjoy reading fiction, spiritual literature, and psychology books.*
+
+- 🎓 *I'm an ML Platform Engineer.*
+- 🧠 *Learning MLOps/DevOps, Data Engineering, and Backend Engineering in general.*
+- 🌼 *I enjoy doing yoga/meditation, taking long walks, reading fiction, journaling.*
 - 😄 *I'm active on <a href="https://www.linkedin.com/in/avr27/" target="_blank">LinkedIn</a>*
 
-<!-- - ⭐ **Open for Collab (both Internationally & within India)** -->
-<!-- - 📖 **I'm interested in NLP & ML Engineering. And Looking forward to building my career there. I document my learning on GitHub and share it with the LinkedIn AI Community.** -->
-<!-- - 👉🏼 **Priority For Me:** I'm looking for a fun work environment, especially a mentor under whom I can work and learn a lot of stuff, one who is willing to commit to me just as I will, and one who sees my potential. -->
-<!-- - 💲 **𝐀 𝐠𝐨𝐨𝐝 𝐬𝐭𝐢𝐩𝐞𝐧𝐝/𝐛𝐚𝐬𝐞-𝐩𝐚𝐲 𝐢𝐬 𝐚𝐥𝐰𝐚𝐲𝐬 𝐚𝐩𝐩𝐫𝐞𝐜𝐢𝐚𝐭𝐞𝐝 𝐚𝐧𝐝 𝐦𝐨𝐭𝐢𝐯𝐚𝐭𝐢𝐧𝐠 𝐭𝐨 𝐩𝐞𝐫𝐟𝐨𝐫𝐦 𝐛𝐞𝐭𝐭𝐞𝐫**😁 -->
-<!-- - 🅰️🅸 𝐈 𝐝𝐨𝐜𝐮𝐦𝐞𝐧𝐭 𝐦𝐲 𝐀𝐈 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠𝐬 𝐨𝐧 𝐆𝐢𝐭𝐇𝐮𝐛 𝐚𝐧𝐝 𝐬𝐡𝐚𝐫𝐞 𝐡𝐞𝐫𝐞 𝐰𝐢𝐭𝐡 𝐭𝐡𝐞 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧 𝐀𝐈 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 -->
-<!-- - 👀 𝐋𝐨𝐨𝐤𝐢𝐧𝐠 𝐟𝐨𝐫 𝐦𝐲 𝐟𝐢𝐫𝐬𝐭 𝐟𝐮𝐥𝐥-𝐭𝐢𝐦𝐞 𝐫𝐨𝐥𝐞 𝐚𝐬 𝐚 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫, 𝐩𝐫𝐞𝐟𝐞𝐫𝐚𝐛𝐥𝐲 𝐬𝐭𝐚𝐫𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐚𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩. -->
 
 * **
 
